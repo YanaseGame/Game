@@ -595,7 +595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2384f3ddd9ad364e9ecd7a6675e7493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dontDestroyEnabled: 0
+  dontDestroyEnabled: 1
 --- !u!1 &223940563
 GameObject:
   m_ObjectHideFlags: 0
@@ -2532,7 +2532,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1.1
-  m_Text: "\u554F\u984C\u304C\u7121\u304F\u306A\u308A\u307E\u3057\u305F\u3002\u518D\u8D77\u52D5\u3092\u304A\n\u9858\u3044\u3057\u307E\u3059\u3002"
+  m_Text: "\u518D\u8D77\u52D5\u3092\u304A\u9858\u3044\u3057\u307E\u3059\u3002"
 --- !u!222 &992219056
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2550,7 +2550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26630be92104c3e4ab5e785883925adf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GetText: "\u554F\u984C\u304C\u7121\u304F\u306A\u308A\u307E\u3057\u305F\u3002\u518D\u8D77\u52D5\u3092\u304A\u9858\u3044\u3057\u307E\u3059\u3002"
+  GetText: "\u518D\u8D77\u52D5\u3092\u304A\u9858\u3044\u3057\u307E\u3059\u3002"
   updateEditorOnly: 0
 --- !u!1 &1169557574
 GameObject:

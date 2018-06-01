@@ -11,7 +11,7 @@ public class UnityAdsScript : MonoBehaviour
     public void ShowAd()
     {
         // ゲームIDを入力して、Unity Adsを初期化する
-        Advertisement.Initialize("");
+        Advertisement.Initialize("12345678");
 
         // Unity Adsを表示する準備ができているか確認する
         if (Advertisement.IsReady())

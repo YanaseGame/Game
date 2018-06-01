@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-01T14:16:37.960+09:00
-  initializedAtString: 2018-06-01T14:15:03.519+09:00
+  lastUpdatedAtString: 2018-06-01T19:18:07.730+09:00
+  initializedAtString: 2018-06-01T19:05:48.262+09:00
   log:
   - commitID: a8b9fd4374fae96438defcd8e9793db981cc3ff3
     mergeA: 

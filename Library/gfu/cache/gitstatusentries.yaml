@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-01T14:16:22.479+09:00
-  initializedAtString: 2018-06-01T14:15:04.355+09:00
+  lastUpdatedAtString: 2018-06-01T19:30:25.789+09:00
+  initializedAtString: 2018-06-01T19:05:49.187+09:00
   entries:
   - path: .collabignore
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\.collabignore
@@ -144,18 +144,6 @@ MonoBehaviour:
   - path: Assets\HyphenationJpn.cs.meta
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\HyphenationJpn.cs.meta
     projectPath: Assets\HyphenationJpn.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\irohamaru-Regular.ttf
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\irohamaru-Regular.ttf
-    projectPath: Assets\irohamaru-Regular.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\irohamaru-Regular.ttf.meta
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\irohamaru-Regular.ttf.meta
-    projectPath: Assets\irohamaru-Regular.ttf.meta
     originalPath: 
     status: 1
     staged: 0
@@ -801,18 +789,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sound.mixer
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\Sound.mixer
-    projectPath: Assets\Sound.mixer
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Sound.mixer.meta
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\Sound.mixer.meta
-    projectPath: Assets\Sound.mixer.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Assets\Sound2.cs
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\Sound2.cs
     projectPath: Assets\Sound2.cs
@@ -834,18 +810,6 @@ MonoBehaviour:
   - path: Assets\SoundPon.cs.meta
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\SoundPon.cs.meta
     projectPath: Assets\SoundPon.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\TEXT.cs
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\TEXT.cs
-    projectPath: Assets\TEXT.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\TEXT.cs.meta
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Assets\TEXT.cs.meta
-    projectPath: Assets\TEXT.cs.meta
     originalPath: 
     status: 1
     staged: 0
@@ -3977,20 +3941,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular SDF.asset"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular
-      SDF.asset"
-    projectPath: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular SDF.asset"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular SDF.asset.meta"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular
-      SDF.asset.meta"
-    projectPath: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular SDF.asset.meta"
-    originalPath: 
-    status: 1
-    staged: 0
   - path: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular.ttf"
     fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular.ttf"
     projectPath: "Assets\\\u30D5\u30A9\u30F3\u30C8\\irohamaru-Regular.ttf"
@@ -4491,20 +4441,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: "Assets\\\u97F3\u697D\\Fantasy 8bit Music - Uneasy and Curi.mp3"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\Fantasy
-      8bit Music - Uneasy and Curi.mp3"
-    projectPath: "Assets\\\u97F3\u697D\\Fantasy 8bit Music - Uneasy and Curi.mp3"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: "Assets\\\u97F3\u697D\\Fantasy 8bit Music - Uneasy and Curi.mp3.meta"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\Fantasy
-      8bit Music - Uneasy and Curi.mp3.meta"
-    projectPath: "Assets\\\u97F3\u697D\\Fantasy 8bit Music - Uneasy and Curi.mp3.meta"
-    originalPath: 
-    status: 1
-    staged: 0
   - path: "Assets\\\u97F3\u697D\\loop.mp3"
     fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\loop.mp3"
     projectPath: "Assets\\\u97F3\u697D\\loop.mp3"
@@ -4543,6 +4479,18 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
+  - path: "Assets\\\u97F3\u697D\\Sound.mixer"
+    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\Sound.mixer"
+    projectPath: "Assets\\\u97F3\u697D\\Sound.mixer"
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: "Assets\\\u97F3\u697D\\Sound.mixer.meta"
+    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\Sound.mixer.meta"
+    projectPath: "Assets\\\u97F3\u697D\\Sound.mixer.meta"
+    originalPath: 
+    status: 1
+    staged: 0
   - path: "Assets\\\u97F3\u697D\\thinking(\u30DD\u30B1\u30C3\u30C8\u30B5\u30A6\u30F3\u30C9).mp3"
     fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\thinking(\u30DD\u30B1\u30C3\u30C8\u30B5\u30A6\u30F3\u30C9).mp3"
     projectPath: "Assets\\\u97F3\u697D\\thinking(\u30DD\u30B1\u30C3\u30C8\u30B5\u30A6\u30F3\u30C9).mp3"
@@ -4576,18 +4524,6 @@ MonoBehaviour:
   - path: "Assets\\\u97F3\u697D\\\u30AF\u30EC\u30B8\u30C3\u30C8\u5FC5\u8981\u306E\u554F\u984C\u97F3.mp3.meta"
     fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\\u30AF\u30EC\u30B8\u30C3\u30C8\u5FC5\u8981\u306E\u554F\u984C\u97F3.mp3.meta"
     projectPath: "Assets\\\u97F3\u697D\\\u30AF\u30EC\u30B8\u30C3\u30C8\u5FC5\u8981\u306E\u554F\u984C\u97F3.mp3.meta"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: "Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav"
-    projectPath: "Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: "Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav.meta"
-    fullPath: "C:\\Users\\Nao\\Desktop\\Unity F\\quiz\\Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav.meta"
-    projectPath: "Assets\\\u97F3\u697D\\\u30B8\u30E0\u30CE\u30DA\u30C7\u30A3\u7B2C\uFF11\u756A.wav.meta"
     originalPath: 
     status: 1
     staged: 0
@@ -6241,24 +6177,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\36\36063b5787b09904c83757051ac2db90
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\36\36063b5787b09904c83757051ac2db90
-    projectPath: Library\metadata\36\36063b5787b09904c83757051ac2db90
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36063b5787b09904c83757051ac2db90.info
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\36\36063b5787b09904c83757051ac2db90.info
-    projectPath: Library\metadata\36\36063b5787b09904c83757051ac2db90.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36063b5787b09904c83757051ac2db90.resource
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\36\36063b5787b09904c83757051ac2db90.resource
-    projectPath: Library\metadata\36\36063b5787b09904c83757051ac2db90.resource
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\metadata\36\36bafabb5572c6347923b971425ab3be
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\36\36bafabb5572c6347923b971425ab3be
     projectPath: Library\metadata\36\36bafabb5572c6347923b971425ab3be
@@ -7075,18 +6993,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\58\58f133763fee9174bae3ec5a8c77476b
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\58\58f133763fee9174bae3ec5a8c77476b
-    projectPath: Library\metadata\58\58f133763fee9174bae3ec5a8c77476b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\58\58f133763fee9174bae3ec5a8c77476b.info
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\58\58f133763fee9174bae3ec5a8c77476b.info
-    projectPath: Library\metadata\58\58f133763fee9174bae3ec5a8c77476b.info
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\metadata\59\5907aa51592a40a4f9f9d13dd124ca6d
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\59\5907aa51592a40a4f9f9d13dd124ca6d
     projectPath: Library\metadata\59\5907aa51592a40a4f9f9d13dd124ca6d
@@ -7144,18 +7050,6 @@ MonoBehaviour:
   - path: Library\metadata\5b\5b8cc65667364d04b9e3b199f305f5a9.info
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\5b\5b8cc65667364d04b9e3b199f305f5a9.info
     projectPath: Library\metadata\5b\5b8cc65667364d04b9e3b199f305f5a9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe
-    projectPath: Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe.info
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe.info
-    projectPath: Library\metadata\5c\5c33a79d614891445b22ca3827e5a4fe.info
     originalPath: 
     status: 1
     staged: 0
@@ -8551,18 +8445,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611
-    projectPath: Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611.info
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611.info
-    projectPath: Library\metadata\9d\9d73ed8fd4d40b64291345fb04a66611.info
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\metadata\9d\9d98c183d7ac6cd428fd132cb4d58634
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\9d\9d98c183d7ac6cd428fd132cb4d58634
     projectPath: Library\metadata\9d\9d98c183d7ac6cd428fd132cb4d58634
@@ -8884,24 +8766,6 @@ MonoBehaviour:
   - path: Library\metadata\ad\ad24c9f4386b55e4d84d0daa2a200058.info
     fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\ad\ad24c9f4386b55e4d84d0daa2a200058.info
     projectPath: Library\metadata\ad\ad24c9f4386b55e4d84d0daa2a200058.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025
-    projectPath: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.info
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.info
-    projectPath: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.resource
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.resource
-    projectPath: Library\metadata\ad\ad35d3783522f1e48be66ed0fd369025.resource
     originalPath: 
     status: 1
     staged: 0
@@ -11503,21 +11367,39 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-48b137ce5d1f5bc458b53ac92fa41e77
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-48b137ce5d1f5bc458b53ac92fa41e77
-    projectPath: Temp\UnityTempFile-48b137ce5d1f5bc458b53ac92fa41e77
+  - path: Temp\UnityTempFile-1dd52c1d7f3f6584fa79be599dd5e789
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-1dd52c1d7f3f6584fa79be599dd5e789
+    projectPath: Temp\UnityTempFile-1dd52c1d7f3f6584fa79be599dd5e789
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-73970711f62ea89489c143a38aa8ddaf
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-73970711f62ea89489c143a38aa8ddaf
-    projectPath: Temp\UnityTempFile-73970711f62ea89489c143a38aa8ddaf
+  - path: Temp\UnityTempFile-4301e393ac67b484bb2eca50d0cc6951
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-4301e393ac67b484bb2eca50d0cc6951
+    projectPath: Temp\UnityTempFile-4301e393ac67b484bb2eca50d0cc6951
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-fdc8daff5d286bd4a8636a9d11be2f37
-    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-fdc8daff5d286bd4a8636a9d11be2f37
-    projectPath: Temp\UnityTempFile-fdc8daff5d286bd4a8636a9d11be2f37
+  - path: Temp\UnityTempFile-63771acf60788d64187c82ed7e49d3b1
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-63771acf60788d64187c82ed7e49d3b1
+    projectPath: Temp\UnityTempFile-63771acf60788d64187c82ed7e49d3b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-94c0832017ed46946b55152cb29c77fe
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityTempFile-94c0832017ed46946b55152cb29c77fe
+    projectPath: Temp\UnityTempFile-94c0832017ed46946b55152cb29c77fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityVS_obj\Debug\quiz.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityVS_obj\Debug\quiz.csproj.CoreCompileInputs.cache
+    projectPath: Temp\UnityVS_obj\Debug\quiz.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityVS_obj\Debug\quiz.csprojResolveAssemblyReference.cache
+    fullPath: C:\Users\Nao\Desktop\Unity F\quiz\Temp\UnityVS_obj\Debug\quiz.csprojResolveAssemblyReference.cache
+    projectPath: Temp\UnityVS_obj\Debug\quiz.csprojResolveAssemblyReference.cache
     originalPath: 
     status: 1
     staged: 0
