@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 58f133763fee9174bae3ec5a8c77476b
+timeCreated: 1526034116
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: irohamaru
+  fontNames:
+  - irohamaru
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6694d6d32f7376146a5563924fde5041, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
